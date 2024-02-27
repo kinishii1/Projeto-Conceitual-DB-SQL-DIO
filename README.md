@@ -1,3 +1,3 @@
 # Projeto-Conceitual-E-COMMERCE-DIO
 
-![](/posts/path/to/img.jpg "Optional title")
+![](https://github.com/kinishii1/Projeto-Conceitual-E-COMMERCE-DIO/blob/main/untitled%20(1).png)
